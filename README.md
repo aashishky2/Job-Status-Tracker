@@ -422,7 +422,7 @@ git push origin feature/new-feature
 
 ## 👨‍💻 Author
 
-**Aashish Kumar**
+**Aashish Sharma**
 
 GitHub: https://github.com/aashishky2
 
